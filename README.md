@@ -1,4 +1,4 @@
-**Acknowledgment:** This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun (https://urikartoun.com/).
+**Acknowledgment:** This project utilizes the dataset and fine-tuned models developed by Dr. Uri Kartoun (http://urikartoun.com/).
 
 **Goal:** This code fine-tunes a pre-trained language model to classify expressions from clinical narrative notes regarding alcohol use. The goal is to identify if the expression indicates alcohol use or if it depicts appropriate use or non-use.
 
